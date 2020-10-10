@@ -4,5 +4,5 @@ inputs:
   entry:
     description: 'Entry point of your API'
 runs:
-  using: 'node14'
+  using: 'node12'
   main: 'dist/index.js'
