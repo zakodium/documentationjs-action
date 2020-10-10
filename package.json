@@ -1,18 +1,14 @@
 {
   "name": "documentationjs-action",
+  "private": true,
   "version": "1.0.0",
   "description": "Build documentation using documentation.js",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zakodium/documentationjs-action.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zakodium/documentationjs-action/issues"
   },
@@ -28,6 +24,5 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "all"
-  },
-  "devDependencies": {}
+  }
 }
