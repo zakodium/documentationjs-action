@@ -1,5 +1,9 @@
 # Build documentation using documentation.js
 
-## Usage
+## Inputs
 
-TODO
+### `entry`
+
+The entry point of your API.
+
+Defaults to `package.module` or `package.main`.

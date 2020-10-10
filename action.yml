@@ -1,0 +1,8 @@
+name: 'documentation.js'
+description: 'Build documentation using documentation.js'
+inputs:
+  entry:
+    description: 'Entry point of your API'
+runs:
+  using: 'node14'
+  main: 'dist/index.js'

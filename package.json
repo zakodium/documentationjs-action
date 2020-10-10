@@ -1,0 +1,35 @@
+{
+  "name": "documentationjs-action",
+  "version": "1.0.0",
+  "description": "Build documentation using documentation.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "ncc build index.js --license licenses.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakodium/documentationjs-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakodium/documentationjs-action/issues"
+  },
+  "homepage": "https://github.com/zakodium/documentationjs-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "documentation": "^13.0.2"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.24.1"
+  }
+}
