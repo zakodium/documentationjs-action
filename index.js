@@ -29,9 +29,6 @@ const entry = core.getInput('entry');
     '--sort-order',
     'alpha',
   ]);
-
-  const docsDir = await fs.readdir('docs');
-  core.warning(docsDir);
 })().catch((error) => {
   core.setFailed(error);
 });
