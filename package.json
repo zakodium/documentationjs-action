@@ -4,7 +4,6 @@
   "description": "Build documentation using documentation.js",
   "main": "dist/index.js",
   "scripts": {
-    "build": "ncc build index.js --license licenses.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +19,7 @@
   "homepage": "https://github.com/zakodium/documentationjs-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
+    "@actions/exec": "^1.0.4",
     "documentation": "^13.0.2"
   },
   "prettier": {
@@ -29,7 +29,5 @@
     "tabWidth": 2,
     "trailingComma": "all"
   },
-  "devDependencies": {
-    "@vercel/ncc": "^0.24.1"
-  }
+  "devDependencies": {}
 }
