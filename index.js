@@ -29,6 +29,8 @@ const entry = core.getInput('entry');
     '--sort-order',
     'alpha',
   ]);
+
+  await fs.writeFile('docs/.nojekyll', '');
 })().catch((error) => {
   core.setFailed(error);
 });
