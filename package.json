@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/zakodium/documentationjs-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.2.7",
     "@actions/exec": "^1.0.4",
-    "documentation": "^13.0.2"
+    "documentation": "^13.2.5"
   },
   "prettier": {
     "arrowParens": "always",
@@ -24,5 +24,8 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "all"
+  },
+  "volta": {
+    "node": "12.22.1"
   }
 }
