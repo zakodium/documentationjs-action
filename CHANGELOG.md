@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/zakodium/documentationjs-action/compare/v1.0.1...v1.0.2) (2021-05-10)
+
+
+### Bug Fixes
+
+* install dependencies if node_modules is not present ([8b6ef85](https://www.github.com/zakodium/documentationjs-action/commit/8b6ef85c38bd1a721483b6fc81a4dfe79aceded7))
+
 ### [1.0.1](https://www.github.com/zakodium/documentationjs-action/compare/v1.0.0...v1.0.1) (2021-04-30)
 
 
