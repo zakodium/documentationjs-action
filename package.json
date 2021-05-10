@@ -1,7 +1,7 @@
 {
   "name": "documentationjs-action",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Build documentation using documentation.js",
   "main": "index.js",
   "repository": {
