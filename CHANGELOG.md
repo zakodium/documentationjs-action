@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/zakodium/documentationjs-action/compare/v1.0.2...v1.1.0) (2023-09-06)
+
+
+### Features
+
+* update deps and switch runtime to node20 ([35b9f0e](https://github.com/zakodium/documentationjs-action/commit/35b9f0ec232ee0adc478753b6feda9a2140b1e03))
+
 ### [1.0.2](https://www.github.com/zakodium/documentationjs-action/compare/v1.0.1...v1.0.2) (2021-05-10)
 
 
