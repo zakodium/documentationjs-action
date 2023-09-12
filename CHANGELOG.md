@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/zakodium/documentationjs-action/compare/v1.1.0...v1.1.1) (2023-09-12)
+
+
+### Bug Fixes
+
+* include necessary "typings" directory ([86cb2fa](https://github.com/zakodium/documentationjs-action/commit/86cb2fa491168fa857a31921cbe519a94ecc3cc9))
+
 ## [1.1.0](https://github.com/zakodium/documentationjs-action/compare/v1.0.2...v1.1.0) (2023-09-06)
 
 
