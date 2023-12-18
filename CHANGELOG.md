@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/zakodium/documentationjs-action/compare/v1.1.1...v1.2.0) (2023-12-18)
+
+
+### Features
+
+* update dependencies ([bb4a846](https://github.com/zakodium/documentationjs-action/commit/bb4a8462b1dbc5a540a75a7bca5bbc4f9def9fac))
+
 ## [1.1.1](https://github.com/zakodium/documentationjs-action/compare/v1.1.0...v1.1.1) (2023-09-12)
 
 
