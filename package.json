@@ -1,6 +1,6 @@
 {
   "name": "documentationjs-action",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "private": true,
   "license": "MIT",
   "description": "Build documentation using documentation.js",

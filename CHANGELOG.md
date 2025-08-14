@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/zakodium/documentationjs-action/compare/v1.2.0...v1.3.0) (2025-08-14)
+
+
+### Features
+
+* update Node.js to v24 ([d8fde34](https://github.com/zakodium/documentationjs-action/commit/d8fde344240947d6b667c04b335c0a352b3a13b6))
+
 ## [1.2.0](https://github.com/zakodium/documentationjs-action/compare/v1.1.1...v1.2.0) (2023-12-18)
 
 
